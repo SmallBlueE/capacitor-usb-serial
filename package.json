@@ -13,7 +13,7 @@
     "ios/Sources",
     "ios/Tests",
     "Package.swift",
-    "CapacitorUsbSerial.podspec"
+    "CapacitorUsbSerialC7.podspec"
   ],
   "author": "leeskies",
   "license": "MIT",
